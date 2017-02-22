@@ -1,0 +1,14 @@
+h1 {
+  color: green;
+  font-size: 50px;
+}
+
+p#first {
+  color: red;
+  font-family: verdana;
+}
+
+p.keanu, li.keanu {
+  background-color: gold;
+  font-family: serif;
+}
