@@ -1,0 +1,15 @@
+h1 {
+  color: #7FDBFF;
+  background-color: salmon;
+  border: 10px solid black;
+  padding: 50px;
+  margin: 25px;
+  width: 350px;
+}
+
+div {
+  background-color: orange;
+  height: 100px;
+  width: 100px;
+  margin-top: 20px;
+}

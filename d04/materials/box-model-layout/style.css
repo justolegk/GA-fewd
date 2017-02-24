@@ -1,0 +1,39 @@
+h1 {
+  color: white;
+  background-color: black;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+  margin-top: 5px;
+  padding: 15px;
+}
+
+p {
+  background-color: #ef5240;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  padding: 30px;
+}
+
+div {
+  background-color: #dcdbdb;
+  padding: 20px;
+}
+
+p.first {
+  color: #810eaf;
+  font-size: 17px;
+}
+
+p.second {
+  color: #23691b;
+  font-size: 17px;
+}
+
+p.third {
+  color: #ffff00;
+  font-size: 17px;
+}

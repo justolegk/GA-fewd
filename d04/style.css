@@ -1,0 +1,23 @@
+h1, h2, h3 {
+  color: red;
+  font-family: helvetica;
+}
+
+#pac {
+  background-color: grey;
+}
+
+p.First {
+  color: gold;
+  font-family: serif;
+}
+
+p.Second {
+  color: powderblue;
+  font-family: verdana;
+}
+
+p.Third {
+  color: salmon;
+  font-family: times;
+}
